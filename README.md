@@ -1,6 +1,7 @@
 # CRUD Boilerplate
 
 This is CRUD boilerplate which is built with **Node**+**Express**+**Mongo**+**GraphQL**.
+These are good suit for backend.
 
 
 ## Installation.
